@@ -1,23 +1,7 @@
-<table border="0" width="100%">
-  <tr>
-    <!-- LEFT SIDE COLUMN: AVATAR AND INTRO -->
-    <td width="50%" valign="top" align="center">
-      <img src="https://github.com" width="180" style="border-radius: 50%;" alt="George Avatar">
-      <br><br>
-      <h1 align="center">Hi there, I'm George 👋</h1>
-      <h3 align="center">Solution Architect & Software Engineer</h3>
-      <p align="justify">
-        A systems-focused <b>Solution Architect and Software Engineer</b> dedicated to building resilient backend ecosystems, high-availability microservices, and secure enterprise AI integration layers. I bridge the gap between complex software design and reliable automated infrastructure.
-      </p>
-    </td>
-    <!-- RIGHT SIDE COLUMN: CONTRIBUTION MATRIX OR STATS -->
-    <td width="50%" valign="top" align="center">
-      <h3>📈 Engine Room Dynamics</h3>
-      <!-- This pulls your live, updated GitHub contribution data card seamlessly -->
-      <img src="https://vercel.app" width="100%" alt="George's GitHub Stats">
-    </td>
-  </tr>
-</table>
+# Hi there, I'm malale59 👋
+### Solution Architect & Senior Software Engineer
+
+A systems-focused **Solution Architect and Software Engineer** dedicated to building resilient backend ecosystems, high-availability microservices, and secure enterprise AI integration layers. I bridge the gap between complex software design and reliable automated infrastructure.
 
 ---
 
@@ -29,7 +13,6 @@
 * **Continuous Quality Controls:** Enforcing rock-solid continuous integration pipelines that catch vulnerabilities, lint code structural patterns, and maintain elite engineering standards.
 
 ---
-
 ## 🛠️ Core Technology Matrix
 
 | Layer | Core Stack & Technologies |
@@ -42,7 +25,16 @@
 
 ---
 
+## 📊 Engine Room Dynamics
+
+![Your GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
 ## 🤝 Let's Collaborate or Connect
+
+I am always looking to discuss cloud design patterns, backend optimization, or AI implementation strategies.
 
 * 🌐 **Portfolio Website:** [yourportfolio.com](https://yourportfolio.com)
 * 💼 **LinkedIn:** [/in/your-linkedin-username](https://linkedin.com)
