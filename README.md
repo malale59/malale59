@@ -1,5 +1,5 @@
-# Hi there, I'm malale59 👋
-### Solution Architect & Senior Software Engineer
+# Hi there, I'm George 👋
+### Solution Architect & Software Engineer
 
 A systems-focused **Solution Architect and Software Engineer** dedicated to building resilient backend ecosystems, high-availability microservices, and secure enterprise AI integration layers. I bridge the gap between complex software design and reliable automated infrastructure.
 
