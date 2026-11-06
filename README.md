@@ -14,16 +14,13 @@ A systems-focused **Solution Architect and Software Engineer** dedicated to buil
 
 ---
 
-## 🛠️ Core Technology Matrix
-
 | Layer | Core Stack & Technologies |
 | :--- | :--- |
-| **Backend & Languages** | ![Java](https://shields.io) |
-| **API Ingress & Routing** | ![Nginx](https://shields.io) |
-| **Infrastructure Automation** | ![Ansible](https://shields.io) |
-| **Containerization** | ![Docker](https://shields.io) |
-| **CI/CD Automation** | ![GitHub Actions](https://shields.io) |
-
+| **Backend & Languages** | Java |
+| **API Ingress & Routing** | Nginx |
+| **Infrastructure Automation** | Ansible |
+| **Containerization** | Docker |
+| **CI/CD Automation** | GitHub Actions |
 ---
 
 ## 📊 Engine Room Dynamics
